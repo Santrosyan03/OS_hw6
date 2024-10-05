@@ -6,7 +6,6 @@ struct MyStruct {
     int c;
 };
 
-
 int main() {
     struct MyStruct s;
     printf("Size of struct: %lu bytes\n", sizeof(s));
